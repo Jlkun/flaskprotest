@@ -3,7 +3,7 @@
 
 #用flask框架来写mock
 from flask import Flask,request,json,abort
-
+#123
 app=Flask(__name__)
 
 class mymock():
